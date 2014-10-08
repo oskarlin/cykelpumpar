@@ -20,10 +20,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Vendor": "public",
-        "Open": "Stockholms stad",
+        "Vendor": "Stockholms stad",
+        "Open": "",
         "Close": "",
-        "Type": ""
+        "Type": "public"
       },
       "geometry": {
         "type": "Point",

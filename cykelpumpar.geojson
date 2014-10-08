@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Stockholms stad",
+        "Open": "",
+        "Close": "",
+        "Type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.030109405517578,
+          59.33971711790888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "public",
+        "Open": "Stockholms stad",
+        "Close": "",
+        "Type": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.02086651325226,
+          59.33451914189137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "public",
+        "Open": "Stockholms stad",
+        "Close": "",
+        "Type": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.075921535491943,
+          59.332636731259434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "public",
+        "Open": "Stockholms stad",
+        "Close": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.047742247581482,
+          59.332601161449894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "public",
+        "Open": "Stockholms stad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06774616241455,
+          59.32313005893518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "public",
+        "Open": "Stockholms stad",
+        "Close": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.072896003723145,
+          59.33604578787007
+        ]
+      }
+    }
+  ]
+}

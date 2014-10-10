@@ -9,7 +9,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +28,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +47,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +66,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -80,7 +84,8 @@
         "Type": "public",
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
-        "Open_weekdays": ""
+        "Open_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -98,7 +103,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -114,7 +120,8 @@
         "Vendor": "Stockholms stad",
         "Type": "public",
         "Working": 1,
-        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/"
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -130,7 +137,8 @@
         "Vendor": "Stockholms stad",
         "Type": "public",
         "Working": 1,
-        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/"
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -148,7 +156,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -164,7 +173,8 @@
         "Vendor": "Stockholms stad",
         "Type": "public",
         "Working": 1,
-        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/"
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -180,7 +190,8 @@
         "Vendor": "Stockholms stad",
         "Type": "public",
         "Working": 1,
-        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/"
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -196,7 +207,8 @@
         "Vendor": "Stockholms stad",
         "Type": "public",
         "Working": 1,
-        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/"
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -214,7 +226,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -232,7 +245,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -250,7 +264,8 @@
         "Working": 0,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -268,7 +283,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -286,7 +302,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -304,7 +321,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -322,7 +340,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -338,7 +357,8 @@
         "Vendor": "Stockholms stad",
         "Type": "public",
         "Working": 1,
-        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/"
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -356,7 +376,8 @@
         "Working": 1,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
-        "Closed_weekdays": ""
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -374,13 +395,71 @@
         "Working": 1,
         "Website": "http://www.cykelverket.se/",
         "Open_weekdays": "10:00",
-        "Closed_weekdays": "18:00"
+        "Closed_weekdays": "18:00",
+        "Outdoor": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           18.03004503250122,
           59.33359436598051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Cykelringen",
+        "Type": "bikeshop",
+        "Working": 1,
+        "Website": "http://www.cykelringen-hornsgatan.se/",
+        "Open_weekdays": "10:00",
+        "Closed_weekdays": "20:00",
+        "Outdoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.037973642349243,
+          59.31590660361012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Söders Cykel",
+        "Type": "bikeshop",
+        "Working": 1,
+        "Website": "http://soderscykel.se/",
+        "Open_weekdays": "10:00",
+        "Closed_weekdays": "18:00",
+        "Outdoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.05801510810852,
+          59.31691124574818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Cykelspecialisten",
+        "Website": "http://cykelspecialisten.com/",
+        "Type": "bikeshop",
+        "Working": 1,
+        "Open_weekdays": "10:00",
+        "Closed_weekdays": "18:00",
+        "Outdoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.03205132484436,
+          59.31783100107442
         ]
       }
     }

@@ -5,10 +5,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -22,10 +23,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -39,10 +41,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -56,10 +59,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -73,9 +77,10 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -89,10 +94,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -107,7 +113,8 @@
       "properties": {
         "Vendor": "Stockholms stad",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/"
       },
       "geometry": {
         "type": "Point",
@@ -122,7 +129,8 @@
       "properties": {
         "Vendor": "Stockholms stad",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/"
       },
       "geometry": {
         "type": "Point",
@@ -136,10 +144,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -154,7 +163,8 @@
       "properties": {
         "Vendor": "Stockholms stad",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/"
       },
       "geometry": {
         "type": "Point",
@@ -169,7 +179,8 @@
       "properties": {
         "Vendor": "Stockholms stad",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/"
       },
       "geometry": {
         "type": "Point",
@@ -184,7 +195,8 @@
       "properties": {
         "Vendor": "Stockholms stad",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/"
       },
       "geometry": {
         "type": "Point",
@@ -198,10 +210,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -215,10 +228,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -232,10 +246,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 0
+        "Working": 0,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -249,10 +264,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -266,10 +282,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -283,10 +300,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -300,10 +318,11 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -318,7 +337,8 @@
       "properties": {
         "Vendor": "Stockholms stad",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/"
       },
       "geometry": {
         "type": "Point",
@@ -332,16 +352,35 @@
       "type": "Feature",
       "properties": {
         "Vendor": "Stockholms stad",
-        "Open": "",
-        "Close": "",
         "Type": "public",
-        "Working": 1
+        "Working": 1,
+        "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
+        "Open_weekdays": "",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           18.082846999168396,
           59.33161066410473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Cykelverket",
+        "Type": "bikeshop",
+        "Working": 1,
+        "Website": "http://www.cykelverket.se/",
+        "Open_weekdays": "10:00",
+        "Closed_weekdays": "18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.03004503250122,
+          59.33359436598051
         ]
       }
     }

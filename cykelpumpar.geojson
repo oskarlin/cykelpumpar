@@ -479,6 +479,24 @@
           59.3037476
         ]
       }
-    }
-  ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Bonne Méchanique",
+        "Type": "bikeshop",
+        "Working": 1,
+        "Open_weekdays": "10:00",
+        "Closed_weekdays": "19:00",
+        "Website": "http://www.bonmeq.se/",
+        "Outdoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.073708713054657,
+          59.311608480554504
+        ]
+      },
+    ]
 }

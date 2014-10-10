@@ -479,7 +479,8 @@
           59.3037476
         ]
       }
-    } {
+    },
+    {
       "type": "Feature",
       "properties": {
         "Vendor": "Bonne Méchanique",

@@ -462,6 +462,23 @@
           59.31783100107442
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Cycle Corner",
+        "Type": "bikeshop",
+        "Working": 1,
+        "Website": "http://cyclecorner.se/",
+        "Outdoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0984046,
+          59.3037476
+        ]
+      }
     }
   ]
 }

@@ -601,16 +601,35 @@
         "Vendor": "Shell 7eleven, Aspudden",
         "Type": "mack",
         "Working": 1,
-        "Website": ".http://www.7-eleven.se/shell-7-eleven/",
+        "Website": "http://www.7-eleven.se/shell-7-eleven/",
         "Open_weekdays": "00:00",
         "Closed_weekdays": "23:59",
-        "Outdoor": ""
-        },
-        "geometry": {
+        "Outdoor": "yes"
+      },
+      "geometry": {
         "type": "Point",
         "coordinates": [
           18.009282052516937,
           59.3052848718761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Unknown",
+        "Type": "public",
+        "Working": 1,
+        "Website": "",
+        "Open_weekdays": "",
+        "Outdoor": "yes",
+        "Closed_weekdays": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.075031042099,
+          59.322626464993355
         ]
       }
     }

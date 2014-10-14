@@ -470,7 +470,8 @@
         "Type": "bikeshop",
         "Working": 1,
         "Website": "http://cyclecorner.se/",
-        "Outdoor": "yes"
+        "Outdoor": "yes",
+        "Closed_weekdays": ""
       },
       "geometry": {
         "type": "Point",
@@ -553,6 +554,44 @@
         "coordinates": [
           18.070798516273495,
           59.32319300765328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Cykellandet",
+        "Type": "bikeshop",
+        "Working": 1,
+        "Website": "http://www.cykellandet.se/",
+        "Open_weekdays": "10:00",
+        "Closed_weekdays": "18:00",
+        "Outdoor": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.963773012161255,
+          59.36594654813056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Sigge Cykel",
+        "Type": "bikeshop",
+        "Working": 1,
+        "Website": "http://www.siggecykel.se/",
+        "Open_weekdays": "10:00",
+        "Closed_weekdays": "19:00",
+        "Outdoor": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.85874843597412,
+          59.369800500481546
         ]
       }
     }

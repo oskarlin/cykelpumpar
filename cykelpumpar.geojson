@@ -498,6 +498,63 @@
           59.311608480554504
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Ekens cykel",
+        "Type": "bikeshop",
+        "Working": 1,
+        "Website": "",
+        "Open_weekdays": "",
+        "Closed_weekdays": "",
+        "Outdoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.032614588737488,
+          59.31502785958048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "CykelCity",
+        "Type": "bikeshop",
+        "Working": 1,
+        "Website": "http://www.cykelcity.se/butiker-oppettider/stockholm/",
+        "Open_weekdays": "10:00",
+        "Closed_weekdays": "18:00",
+        "Outdoor": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0869722366333,
+          59.31547134071459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Website": "http://www.gamlastanscykel.se/",
+        "Working": 1,
+        "Vendor": "Gamla Stans Cykel",
+        "Type": "bikeshop",
+        "Open_weekdays": "10:00",
+        "Closed_weekdays": "18:00",
+        "Outdoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.070798516273495,
+          59.32319300765328
+        ]
+      }
     }
   ]
 }

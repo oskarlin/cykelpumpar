@@ -4,11 +4,6 @@ Cykelpumpar
 Karta som visar cykelpumpar i Stockholm
 
 
-### Licens
-
-CC-BY-SA
-
-
 ### Hur man hjälper till
 
 1. Skaffa ett GitHub-konto om du inte har.
@@ -32,3 +27,7 @@ Till varje punkt finns för närvarande sju kolumner att fylla i:
 6. __Closed_weekdays__. Pumpens stängningstid vardagar.
 7. __Outdoor__. Om pumpen sitter utomhus eller finns inomhus. Yes=ute, No=inne.
 
+
+### Licens
+
+CC-BY-SA

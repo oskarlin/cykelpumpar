@@ -280,7 +280,7 @@
       "properties": {
         "Vendor": "Stockholms stad",
         "Type": "public",
-        "Working": 1,
+        "Working": 0,
         "Website": "http://www.stockholm.se/TrafikStadsplanering/Trafik-och-resor-/Cykla-och-ga/Cykelpumpar/",
         "Open_weekdays": "",
         "Closed_weekdays": "",

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CYKELPUMPAR BETA 0.1</title>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
+
+  <script src="https://raw.github.com/calvinmetcalf/leaflet-ajax/master/dist/leaflet.ajax.min.js"></script>
+
+<!-- <script src="https://raw.githubusercontent.com/oskarlin/cykelpumpar/master/cykelpumpar.geojson"></script> -->
+
+  <link rel="points" type="application/json" href="http://raw.githubusercontent.com/oskarlin/cykelpumpar/master/cykelpumpar.geojson">
+
+
+</head>
+<body style="margin:0; padding:0; background-color: white;">
+
+<div id="map" style="width: 100%; height: 100%; position: absolute;"></div>
+
+
+<style>
+
+.legend .legendcircle {
+	display: inline-block;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  border: 1px solid black;
+}
+
+.info {
+    padding: 6px 8px;
+    font: 14px/20px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+
+}
+
+</style>
+
+<script>
+
+var d = new Date();
+ var hour = d.getHours();
+
+// var hour = 18;
+
+		var mapquesttiles = L.tileLayer('http://otile{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.jpeg', 
+			{
+				attribution: 'Tiles by <a href="http://www.mapquest.com/">MapQuest</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+				subdomains: '1234'
+			}); 
+		
+
+
+/*  	if (feature.properties.Open_weekdays > hour) {
+	  	open = ;
+  	} */
+
+	var StyleOpen = {
+	    "color": "#00ff00",
+	    "weight": 5,
+	    "opacity": 0.65
+	};
+
+	var StyleClosed = {
+	    "color": "#ff0000",
+	    "weight": 5,
+	    "opacity": 0.65
+	};
+	
+	
+	var myColor = "";
+	
+	var pumpOpen = 0;
+	
+	var geojsonMarkerOptions = {
+    radius: 8,
+    fillColor: myColor,
+    color: "#000",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8
+  };
+
+
+  function popUp(feature, layer) {
+    layer.bindPopup('<strong><a href="' + feature.properties.Website + '">' + feature.properties.Vendor + '</a></strong><br><strong>Öppettider:</strong> ' + feature.properties.Open_weekdays + '-' + feature.properties.Closed_weekdays 
+    	);
+  }
+    
+  var geojsonLayer = new L.GeoJSON.AJAX("cykelpumpar.geojson", {
+  
+		pointToLayer: function (feature, latlng) {
+		
+			if (feature.properties.Open_weekdays) {
+				pumpOpen = feature.properties.Open_weekdays.substr(0, 2);
+				pumpClosed = feature.properties.Closed_weekdays.substr(0, 2);
+				
+				if (hour < pumpClosed && hour > pumpOpen) {
+					myColor = "#00ff00";	
+				} else {
+					myColor = "#ff0000";				
+				}
+			} else {
+					myColor = "#aaaaaa";	
+			}
+			
+//			alert (pumpOpen);
+			
+			
+/*			switch (feature.properties.Type) {
+	    	case 'bikeshop': myColor = "#00ff00"; break;
+	    	case 'public': myColor = "#ff0000"; break;
+	    } */
+
+//	    alert (myColor);
+		
+	    return L.circleMarker(latlng, {
+		    radius: 8,
+		    fillColor: myColor,
+		    color: "#000",
+		    weight: 1,
+		    opacity: 1,
+		    fillOpacity: 0.8
+		  });
+		},
+  
+  	onEachFeature:popUp
+  	
+  	});
+
+  var map = L.map('map').setView([59.32, 18.06], 13);
+  mapquesttiles.addTo(map);
+  
+  geojsonLayer.addTo(map);
+  
+  
+var legend = L.control({position: 'topright'});
+
+legend.onAdd = function (map) {
+
+  var div = L.DomUtil.create('div', 'info legend');
+
+     div.innerHTML +=
+     				'Pumpläget kl ' + hour + '<br>' +
+            '<i class="legendcircle" style="background: #00ff00"></i> Öppet<br>' + 
+            '<i class="legendcircle" style="background: #ff0000"></i> Stängt<br>' +
+            '<i class="legendcircle" style="background: #aaaaaa"></i> Oklart';
+
+    return div;
+    
+   }
+  
+  legend.addTo(map);
+  
+</script>
+
+</body>
+</html>
+
+
+

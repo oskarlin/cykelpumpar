@@ -13,8 +13,6 @@
 
 <!-- <script src="http://cdn.rawgit.com/oskarlin/cykelpumpar/master/cykelpumpar.geojson"></script> -->
 
-  <link rel="points" type="application/json" href="http://raw.githubusercontent.com/oskarlin/cykelpumpar/master/cykelpumpar.geojson">
-
 
 </head>
 <body style="margin:0; padding:0; background-color: white;">
@@ -95,7 +93,7 @@ var d = new Date();
     	);
   }
     
-  var geojsonLayer = new L.GeoJSON.AJAX("https://cdn.rawgit.com/oskarlin/cykelpumpar/master/cykelpumpar.geojson", {
+  var geojsonLayer = new L.GeoJSON.AJAX("https://rawgit.com/oskarlin/cykelpumpar/master/cykelpumpar.geojson", {
   
 		pointToLayer: function (feature, latlng) {
 		

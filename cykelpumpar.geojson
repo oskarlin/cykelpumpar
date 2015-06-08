@@ -645,6 +645,25 @@
           59.322626464993355
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Stockholms stad",
+        "Type": "public",
+        "Working": 1,
+        "Website": "",
+        "Open_weekdays": "00:00",
+        "Closed_weekdays": "23:59",
+        "Outdoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.052682876586914,
+          59.32719138079497
+        ]
+      }
     }
   ]
 }

@@ -660,8 +660,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.052682876586914,
-          59.32719138079497
+          18.053036928176876,
+          59.32699161013948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vendor": "Cykloteket",
+        "Type": "bikeshop",
+        "Working": 1,
+        "Website": "https://www.cykloteket.se/",
+        "Open_weekdays": "10:00",
+        "Closed_weekdays": "19:00",
+        "Outdoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.03370624780655,
+          59.34688765121435
         ]
       }
     }
